@@ -11,6 +11,13 @@ It uses a cheap laser diode as the light source, and everyday white printer pape
 
 ## Results
 
+Design:
+
+<img alt="Digital model" src="img/digital-model.png" />
+
+Build, with a 6 stud wide, 6 brick + 1 plate high base for stability:
+
+<img alt="Physical model" src="img/physical-model.jpg" width="600"/>
 
 Double slit interference pattern using this rig:
 
